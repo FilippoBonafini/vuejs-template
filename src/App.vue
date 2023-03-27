@@ -18,4 +18,4 @@ export default {
 </template>
 
 <!-- CSS  -->
-<style scoped></style>
+<style lang="scss"></style>
