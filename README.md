@@ -1,3 +1,9 @@
-# Vue 3 + Vite
+# Vue template
 
-Template di partenza
+Template di partenza con progetti Vue con option API:
+
+PER INSTALLARE IL PROGETTO:
+```
+npm install
+npm run dev
+```
